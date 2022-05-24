@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my main branch
+
+This is my other branch.
+>>>>>>> demo
